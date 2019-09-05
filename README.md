@@ -21,6 +21,8 @@ Nothing to install
 
 ## How to use?
 Go to the browser and paste the path of the index.html thats all.
+## Website live @
+http://theplaygod.me/music-search-by-artist/
 
 ## Contribute
 
