@@ -21,11 +21,3 @@ Nothing to install
 
 ## How to use?
 Go to the browser and paste the path of the index.html thats all.
-## Website live @
-http://theplaygod.me/music-search-by-artist/
-
-## Contribute
-
-Any one can contribute into this project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
-
-
